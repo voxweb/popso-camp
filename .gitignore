@@ -1,0 +1,27 @@
+# Django #
+logs
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+static
+# Environments #
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.django_env/
+django_env/
+
+# IDE #
+.vscode/
+
+# Backup files #
+*.bak
+
+# idea #
+.idea
